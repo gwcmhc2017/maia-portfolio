@@ -1,0 +1,13 @@
+body {
+  background-color:#ffccdc
+}
+h1 {
+
+}
+div.static{
+  border: 3px soild #
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
